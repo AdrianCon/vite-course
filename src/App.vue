@@ -3,6 +3,8 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 import HelloWorld from "./components/HelloWorld.vue";
 import style from "./assets/example.module.css";
+import { developerMood } from "./data.json";
+
 </script>
 
 <template>
