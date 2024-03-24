@@ -4,7 +4,7 @@
 import HelloWorld from "./components/HelloWorld.vue";
 import style from "./assets/example.module.css";
 import { developerMood } from "./data.json";
-
+console.log(developerMood);
 </script>
 
 <template>
